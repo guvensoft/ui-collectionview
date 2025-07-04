@@ -6,3 +6,7 @@ dependencies {
     // }
     // implementation 'jp.wasabeef:recyclerview-animators:4.0.2'
 }
+
+android {
+    namespace = "org.nativescript.collectionview"
+}
